@@ -110,3 +110,5 @@ page-mathjax: false
 #        href: "http://mida.re/"
     #}
 #]
+
+theme: jekyll-theme-cayman
